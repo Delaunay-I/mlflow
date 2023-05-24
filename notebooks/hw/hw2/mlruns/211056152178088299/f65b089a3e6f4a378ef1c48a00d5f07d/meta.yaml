@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/e/projects/mlops-zoomcamp/mlflow/notebooks/hw/hw2/mlruns/211056152178088299/f65b089a3e6f4a378ef1c48a00d5f07d/artifacts
+end_time: 1684958648947
+entry_point_name: ''
+experiment_id: '211056152178088299'
+lifecycle_stage: active
+run_id: f65b089a3e6f4a378ef1c48a00d5f07d
+run_name: efficient-fly-589
+run_uuid: f65b089a3e6f4a378ef1c48a00d5f07d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684958629990
+status: 3
+tags: []
+user_id: amir
