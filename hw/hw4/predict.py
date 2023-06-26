@@ -58,4 +58,4 @@ df_result.to_parquet(
     index=False
 )
 
-print(f"mean predicted duration: {df['results'].mean}")
+print(f"mean predicted duration: {df['results'].mean()}")
